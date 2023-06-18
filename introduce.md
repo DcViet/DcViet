@@ -14,7 +14,7 @@
 </a>
 </p>
 
-<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<h3><b><i>🏆 Giám sát "Perry" :</i></b></h3>
 <a href="https://github.com/DcViet"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=DcViet&color=blueviolet&style=flat-square"></a>
 
 <p>
