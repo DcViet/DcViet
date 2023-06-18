@@ -13,7 +13,7 @@
 
 <sub> :raccoon: Emoji [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) | :owl: 20:00 - 3:00 </sub>
 
-<h3><strong><em> :eye_speech_bubble: ":people_hugging:"</em></strong></h3>
+<h3><strong> :eye_speech_bubble: ":people_hugging:"</strong></h3>
 <a href="https://github.com/DcViet"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=DcViet&color=blueviolet&style=flat-square" alt="GitHub profile view counter"></a>
 
 <img height="140" src="https://github-readme-stats.vercel.app/api?username=DcViet&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true&hide=contribs,issues&hide_rank=false&rank_icon=github" /></a>
@@ -21,10 +21,9 @@
 <a href="https://github.com/DcViet"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DcViet&layout=compact&theme=react&hide_border=true" /></a>
 
 :octocat:
-- [Scan grab receipt](https://github.com/DcViet/Scan_grabReceipt.git)
+- [Scan grab receipt](https://github.com/DcViet/Scan_grabReceipt.git) :trollface: 
 - [Maximal Rectangle Algorithm](https://github.com/DcViet/Maximal-Rectangle-Algorithm.git)
 
-:trollface: :octocat:
 <!--
 <picture>
   <source
