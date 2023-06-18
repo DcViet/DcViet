@@ -7,7 +7,7 @@
   <a href="https://github.com/DcViet"><img src="https://s2.coinmarketcap.com/static/img/coins/200x200/25006.png" alt="GitHub logo" /></a>
   <blockquote>
     <p>I come from a small town</p>
-    <p>Where opportunities were limited. That's where I learned to code, and then I went on to get my certification as a computer programmer.</p>
+    <p>Where opportunities were limited. That's where I learned to code and then I went on to get my certification as a computer programmer.</p>
   </blockquote>
 </div>
 
