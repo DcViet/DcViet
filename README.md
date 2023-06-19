@@ -13,6 +13,13 @@
 
 <sub> :raccoon: Emoji [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) | :owl: 20:00 - 3:00 </sub>
 
+<sub>
+My Self-Taught Learning Journey: 
+  
+- Course: 
+[Beginner Full Stack Web Development: HTML, CSS, React & Node](https://stackskills.com/p/beginner-full-stack-web-development-html-css-react-node)
+</sub>
+
 <h3><strong> :eye_speech_bubble: ":people_hugging:"</strong></h3>
 <a href="https://github.com/DcViet"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=DcViet&color=blueviolet&style=flat-square" alt="GitHub profile view counter"></a>
 
