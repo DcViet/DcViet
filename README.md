@@ -2,17 +2,28 @@
 <!-- DcViet introduce.md -->
 <div> 
 <img height="100" style="transform: scaleX(-1)"; src="https://i.pinimg.com/originals/34/3e/a1/343ea1d4cc1ca376a4e56d9614ef2c82.png" alt="perry" />
-
-<img height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG12Ynp1cmFsdDBreDFraHNmZXg4cjF5dGtmZGQ4d283aHM2cGZzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U29iRRUrtx1wjD4GR4/giphy.gif" />
-</div>
-<div>
-<img height="100" src="https://i0.wp.com/s-media-cache-ak0.pinimg.com/originals/ab/7e/9e/ab7e9e9237ab0f62324e7461c74db788.jpg?w=660&ssl=1" />
-<img height="" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae447fdd-fc93-45cc-9836-f5c41b715c79/d5b5tie-69782ae5-7425-4444-b064-112401283b45.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FlNDQ3ZmRkLWZjOTMtNDVjYy05ODM2LWY1YzQxYjcxNWM3OVwvZDViNXRpZS02OTc4MmFlNS03NDI1LTQ0NDQtYjA2NC0xMTI0MDEyODNiNDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8Y8R-IgqlyMiRABZmQlEJPgXBt-uqYYiRrhThNmKDPE" /> 
-
-<img height="" src="https://i.skyrock.net/2504/86432504/pics/3134164126_1_2_g4BArAIS.gif" />
-</div>
-
 <img height="100" src="https://i.pinimg.com/originals/2f/14/9b/2f149b436f5019587cfd44c498febe5b.gif" />
+</div>
+
+
+
+
+<table style="padding: 5px">
+  <tr>
+    <td> <h5>input</h2></td>
+    <td> <h5>coding</h2></td>
+    <td> <h5>result</h2></td>
+
+  </tr>	
+  <tr>
+    <td><img height="100" src="https://thumbs.gfycat.com/HotMeatyBream-max-1mb.gif" /></td>
+    <td><img height="" src="https://i.gifer.com/origin/98/98eda5b292bc33c779b8499d656f90ad_w200.gif" /></td>
+    <td><img height="" src="https://i.skyrock.net/2504/86432504/pics/3134164126_1_2_g4BArAIS.gif" />      
+        <img height="100" src="https://i0.wp.com/s-media-cache-ak0.pinimg.com/originals/ab/7e/9e/ab7e9e9237ab0f62324e7461c74db788.jpg?w=660&ssl=1" /></td>
+    
+  </tr>
+</table>
+
 <div>
   <img height="140" src="https://s2.coinmarketcap.com/static/img/coins/200x200/25006.png" alt="Coin logo" />
   <a href="https://github.com/DcViet"><img src="https://s2.coinmarketcap.com/static/img/coins/200x200/25006.png" alt="GitHub logo" /></a>
@@ -57,3 +68,4 @@ My Self-Taught Learning Journey:
 --> 
 
 ![game](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
+<img height="" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae447fdd-fc93-45cc-9836-f5c41b715c79/d5b5tie-69782ae5-7425-4444-b064-112401283b45.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FlNDQ3ZmRkLWZjOTMtNDVjYy05ODM2LWY1YzQxYjcxNWM3OVwvZDViNXRpZS02OTc4MmFlNS03NDI1LTQ0NDQtYjA2NC0xMTI0MDEyODNiNDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8Y8R-IgqlyMiRABZmQlEJPgXBt-uqYYiRrhThNmKDPE" /> 
