@@ -54,6 +54,7 @@ My Self-Taught Learning Journey:
 - [Maximal Rectangle Algorithm](https://github.com/DcViet/Maximal-Rectangle-Algorithm.git)
 - [beginnerFullStackWebDev_stackskill](https://github.com/DcViet/beginnerFullStackWebDev_stackskill.git)
 - [Subjects at My University]()
+- [And more]..()
 <!--
 <picture>
   <source
