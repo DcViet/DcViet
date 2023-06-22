@@ -52,7 +52,8 @@ My Self-Taught Learning Journey:
 :octocat:
 - [Scan grab receipt](https://github.com/DcViet/Scan_grabReceipt.git) :trollface: 
 - [Maximal Rectangle Algorithm](https://github.com/DcViet/Maximal-Rectangle-Algorithm.git)
-
+- [beginnerFullStackWebDev_stackskill](https://github.com/DcViet/beginnerFullStackWebDev_stackskill.git)
+- [Subjects at My University]()
 <!--
 <picture>
   <source
