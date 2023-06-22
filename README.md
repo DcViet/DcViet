@@ -1,6 +1,7 @@
 #Hi
 <!-- DcViet introduce.md -->
-![perry](https://i.pinimg.com/originals/34/3e/a1/343ea1d4cc1ca376a4e56d9614ef2c82.png)
+<img height="100" src="https://i.pinimg.com/originals/34/3e/a1/343ea1d4cc1ca376a4e56d9614ef2c82.png" alt="perry" /> 
+<img height="100" src="https://i.pinimg.com/originals/2f/14/9b/2f149b436f5019587cfd44c498febe5b.gif" />
 
 <div>
   <img height="140" src="https://s2.coinmarketcap.com/static/img/coins/200x200/25006.png" alt="Coin logo" />
