@@ -6,24 +6,6 @@
 </div>
 
 
-
-
-<table style="padding: 5px">
-  <tr>
-    <td> <h5>input</h2></td>
-    <td> <h5>coding</h2></td>
-    <td> <h5>result</h2></td>
-
-  </tr>	
-  <tr>
-    <td><img height="100" src="https://thumbs.gfycat.com/HotMeatyBream-max-1mb.gif" /></td>
-    <td><img height="" src="https://i.gifer.com/origin/98/98eda5b292bc33c779b8499d656f90ad_w200.gif" /></td>
-    <td><img height="" src="https://i.skyrock.net/2504/86432504/pics/3134164126_1_2_g4BArAIS.gif" />      
-<!--         <img height="100" src="https://i0.wp.com/s-media-cache-ak0.pinimg.com/originals/ab/7e/9e/ab7e9e9237ab0f62324e7461c74db788.jpg?w=660&ssl=1" /></td> -->
-    
-  </tr>
-</table>
-
 <div>
   <img height="140" src="https://s2.coinmarketcap.com/static/img/coins/200x200/25006.png" alt="Coin logo" />
   <a href="https://github.com/DcViet"><img src="https://s2.coinmarketcap.com/static/img/coins/200x200/25006.png" alt="GitHub logo" /></a>
@@ -41,6 +23,21 @@ My Self-Taught Learning Journey:
 - Course: 
 [Beginner Full Stack Web Development: HTML, CSS, React & Node](https://stackskills.com/p/beginner-full-stack-web-development-html-css-react-node)
 </sub>
+<table style="padding: 5px">
+  <tr>
+    <td> <h5>input</h2></td>
+    <td> <h5>coding</h2></td>
+    <td> <h5>result</h2></td>
+
+  </tr>	
+  <tr>
+    <td><img height="100" src="https://thumbs.gfycat.com/HotMeatyBream-max-1mb.gif" /></td>
+    <td><img height="" src="https://i.gifer.com/origin/98/98eda5b292bc33c779b8499d656f90ad_w200.gif" /></td>
+    <td><img height="" src="https://i.skyrock.net/2504/86432504/pics/3134164126_1_2_g4BArAIS.gif" />      
+<!--         <img height="100" src="https://i0.wp.com/s-media-cache-ak0.pinimg.com/originals/ab/7e/9e/ab7e9e9237ab0f62324e7461c74db788.jpg?w=660&ssl=1" /></td> -->
+    
+  </tr>
+</table>
 
 <h3><strong> :eye_speech_bubble: ":people_hugging:"</strong></h3>
 <a href="https://github.com/DcViet"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=DcViet&color=blueviolet&style=flat-square" alt="GitHub profile view counter"></a>
