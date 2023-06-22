@@ -65,8 +65,9 @@ My Self-Taught Learning Journey:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=DcViet&show_icons=true" />
 </picture>
+<img height="" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae447fdd-fc93-45cc-9836-f5c41b715c79/d5b5tie-69782ae5-7425-4444-b064-112401283b45.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FlNDQ3ZmRkLWZjOTMtNDVjYy05ODM2LWY1YzQxYjcxNWM3OVwvZDViNXRpZS02OTc4MmFlNS03NDI1LTQ0NDQtYjA2NC0xMTI0MDEyODNiNDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8Y8R-IgqlyMiRABZmQlEJPgXBt-uqYYiRrhThNmKDPE" /> 
+<img height="100" src="https://i.pinimg.com/originals/2f/14/9b/2f149b436f5019587cfd44c498febe5b.gif" />
 --> 
 
 ![game](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
-<img height="" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae447fdd-fc93-45cc-9836-f5c41b715c79/d5b5tie-69782ae5-7425-4444-b064-112401283b45.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FlNDQ3ZmRkLWZjOTMtNDVjYy05ODM2LWY1YzQxYjcxNWM3OVwvZDViNXRpZS02OTc4MmFlNS03NDI1LTQ0NDQtYjA2NC0xMTI0MDEyODNiNDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8Y8R-IgqlyMiRABZmQlEJPgXBt-uqYYiRrhThNmKDPE" /> 
-<img height="100" src="https://i.pinimg.com/originals/2f/14/9b/2f149b436f5019587cfd44c498febe5b.gif" />
+
