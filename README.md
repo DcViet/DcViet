@@ -1,17 +1,20 @@
 #Hi
 <!-- DcViet introduce.md -->
-<div> 
-<img height="100" style="transform: scaleX(-1)"; src="https://i.pinimg.com/originals/34/3e/a1/343ea1d4cc1ca376a4e56d9614ef2c82.png" alt="perry" />
-
+<div align="center"> 
+<span><img height="100" style="margin-left:30px"; src="https://i.pinimg.com/originals/34/3e/a1/343ea1d4cc1ca376a4e56d9614ef2c82.png" alt="perry" /></span>
+</div>  
+<div align="center">
+<span><img height="70%" src="assets/intro-myself.gif" /></span>
 </div>
 
+#
 
 <div>
   <img height="140" src="https://s2.coinmarketcap.com/static/img/coins/200x200/25006.png" alt="Coin logo" />
   <a href="https://github.com/DcViet"><img src="https://s2.coinmarketcap.com/static/img/coins/200x200/25006.png" alt="GitHub logo" /></a>
   <blockquote>
-    <p>I come from a small town</p>
-    <p>Where opportunities were limited. That's where I learned to code and then I went on to get my certification as a computer programmer.</p>
+    <p></p>
+    <p></p>
   </blockquote>
 </div>
 
