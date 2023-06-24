@@ -4,7 +4,7 @@
 <span><img height="100" style="margin-left:30px"; src="https://i.pinimg.com/originals/34/3e/a1/343ea1d4cc1ca376a4e56d9614ef2c82.png" alt="perry" /></span>
 </div>  
 <div align="center">
-<span><img height="70%" src="" /></span>
+<span><img height="70%" src="assets/intro_me.gif" /></span>
 </div>
 
 #
