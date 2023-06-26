@@ -71,5 +71,17 @@ My Self-Taught Learning Journey:
 <img height="100" src="https://i.pinimg.com/originals/2f/14/9b/2f149b436f5019587cfd44c498febe5b.gif" />
 --> 
 
-![game](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
+```mermaid
+gantt
+dateFormat  YYYY-MM-DD
+title fullstack-journey
+excludes weekdays 2023-06-10
 
+section A section
+Completed task            :done,    des1, 2023-07-06,2023-07-08
+Active task               :active,  des2, 2023-07-09, 3d
+Future task               :         des3, after des2, 5d
+Future task2               :         des4, after des3, 5d
+```
+
+![game](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
