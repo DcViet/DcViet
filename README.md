@@ -23,10 +23,14 @@
 <sub>
 My Self-Taught Learning Journey: 
   
-- Course: 
-[Beginner Full Stack Web Development: HTML, CSS, React & Node](https://stackskills.com/p/beginner-full-stack-web-development-html-css-react-node)
+- Course:
+
+>[Beginner Full Stack Web Development: HTML, CSS, React & Node](https://stackskills.com/p/beginner-full-stack-web-development-html-css-react-node) | loading..70%
+
+>[Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
 </sub>
-<table style="padding: 5px">
+
+<table style="padding: 2px">
   <tr>
     <td> <h5>input</h2></td>
     <td> <h5>coding</h2></td>
@@ -36,9 +40,13 @@ My Self-Taught Learning Journey:
   <tr>
     <td><img height="100" src="https://thumbs.gfycat.com/HotMeatyBream-max-1mb.gif" /></td>
     <td><img height="" src="https://i.gifer.com/origin/98/98eda5b292bc33c779b8499d656f90ad_w200.gif" /></td>
-    <td><img height="" src="https://i.skyrock.net/2504/86432504/pics/3134164126_1_2_g4BArAIS.gif" />      
-<!--         <img height="100" src="https://i0.wp.com/s-media-cache-ak0.pinimg.com/originals/ab/7e/9e/ab7e9e9237ab0f62324e7461c74db788.jpg?w=660&ssl=1" /></td> -->
-    
+    <td><img height="" src="https://i.skyrock.net/2504/86432504/pics/3134164126_1_2_g4BArAIS.gif" /></td>    
+<!--<img height="100" src="https://i0.wp.com/s-media-cache-ak0.pinimg.com/originals/ab/7e/9e/ab7e9e9237ab0f62324e7461c74db788.jpg?w=660&ssl=1" /></td> -->
+  </tr>
+  <tr>
+    <td><img height="100" src="https://thumbs.gfycat.com/HotMeatyBream-max-1mb.gif" /></td>
+    <td><img height="" src="https://i.gifer.com/origin/98/98eda5b292bc33c779b8499d656f90ad_w200.gif" /></td>
+    <td><img height="" src="https://i.skyrock.net/2504/86432504/pics/3134164126_1_2_g4BArAIS.gif" /></td>  
   </tr>
 </table>
 
@@ -55,6 +63,7 @@ My Self-Taught Learning Journey:
 - [beginnerFullStackWebDev_stackskill](https://github.com/DcViet/beginnerFullStackWebDev_stackskill.git)
 - [Subjects at My University]()
 - [And more..]()
+
 <!--
 <picture>
   <source
@@ -85,3 +94,19 @@ Future task2               :         des4, after des3, 5d
 ```
 
 ![game](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
+
+> **Note**
+> This is a note
+
+> **Warning**
+> This is a warning
+
+
+<tr>
+        <td  align="center">
+        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+
+  </tr>
