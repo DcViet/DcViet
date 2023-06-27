@@ -110,3 +110,15 @@ Future task2               :         des4, after des3, 5d
       </td>
 
   </tr>
+  
+```stl
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+  ...
+```
