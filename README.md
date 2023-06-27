@@ -122,22 +122,28 @@ solid cube_corner
   endfacet
   ...
 ```
+
 ```mermaid
 gantt
     title Schedule-Deep Dive Into Modern Web Development-[Course](https://)
-    Part 0 : 2023-06-26, 3d
-    Part 1 : 2023-06-28, 3d
-    Part 2 : 2023-07-1, 3d
-    Part 3 : 2023-07-4, 3d
-    Part 4 : 2023-07-7, 3d
-    Part 5 : 2023-07-10, 3d
-    Part 6 : 2023-07-13, 3d
-    Part 7 : 2023-07-16, 3d
-    Part 8 : 2023-07-19, 3d
-    Part 9 : 2023-07-21, 3d
-    Part 10 : 2023-07-24, 3d
-    Part 11 : 2023-07-27, 3d
-    Part 12 : 2023-07-30, 3d
-    Part 13 : 2023-08-2, 3d
-    Review  : 2023-08-3, 7d
+    section Part 0-5
+    	Part 0 : 2023-06-26, 3d
+    	Part 1 : 2023-06-28, 3d
+    	Part 2 : 2023-07-1, 3d
+    	Part 3 : 2023-07-4, 3d
+    	Part 4 : 2023-07-7, 3d
+    	Part 5 : 2023-07-10, 3d
+    section Part 6-10
+   	Part 6 : 2023-07-13, 3d
+   	Part 7 : 2023-07-16, 3d
+   	Part 8 : 2023-07-19, 3d
+ 	Part 9 : 2023-07-21, 3d
+   	Part 10 : 2023-07-24, 3d
+    section 11-13
+   	Part 11 : 2023-07-27, 3d
+    	Part 12 : 2023-07-30, 3d
+    	Part 13 : 2023-08-2, 3d
+    section Review
+    	Review  : 2023-08-3, 7d
 ```
+
