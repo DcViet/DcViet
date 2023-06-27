@@ -30,7 +30,7 @@ My Self-Taught Learning Journey:
 >[Deep Dive Into Modern Web Development](https://fullstackopen.com/en/) | my schedule below..
 </sub>
 
-<table style="padding: 2px">
+<table style="padding: 2px;" >
   <tr>
     <td> <h5>input</h2></td>
     <td> <h5>coding</h2></td>
@@ -45,8 +45,8 @@ My Self-Taught Learning Journey:
   </tr>
   <tr>
     <td><img height="100" src="https://68.media.tumblr.com/9fcbf60f2d3af13e99dacd8ab48c4063/tumblr_o4432nMNjU1ufjgb9o1_250.gif" /></td>
-    <td><img height="" src="https://i.gifer.com/origin/98/98eda5b292bc33c779b8499d656f90ad_w200.gif" /></td>
-    <td><img height="" src="https://clipart-library.com/images_k/pokemon-transparent-gif/pokemon-transparent-gif-23.png" /></td>  
+    <td><img height="" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/454b3d15-6df4-4464-b8fd-b27a15ead8d3/d71dicl-3d501b28-8542-4dda-bfa5-08bf5041bb90.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ1NGIzZDE1LTZkZjQtNDQ2NC1iOGZkLWIyN2ExNWVhZDhkM1wvZDcxZGljbC0zZDUwMWIyOC04NTQyLTRkZGEtYmZhNS0wOGJmNTA0MWJiOTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uo4DwXHUy6UjOTHyC0PhH07Ap8HBHUUqtDPH5XscAPE"/></td>
+    <td> <img height="100" src="https://clipart-library.com/images_k/pokemon-transparent-gif/pokemon-transparent-gif-23.png" /></td>  
   </tr>
 </table>
 
@@ -65,6 +65,7 @@ My Self-Taught Learning Journey:
 - [Subjects at My University]()
 - [And more..]()
 
+<!--<td><img height="" src="https://pikselitaidetta.files.wordpress.com/2016/04/new-piskel-31.gif" /></td>-->
 <!--
 <picture>
   <source
