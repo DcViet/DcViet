@@ -27,7 +27,7 @@ My Self-Taught Learning Journey:
 
 >[Beginner Full Stack Web Development: HTML, CSS, React & Node](https://stackskills.com/p/beginner-full-stack-web-development-html-css-react-node) | loading..70%
 
->[Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
+>[Deep Dive Into Modern Web Development](https://fullstackopen.com/en/) | my schedule below..
 </sub>
 
 <table style="padding: 2px">
@@ -44,9 +44,9 @@ My Self-Taught Learning Journey:
 <!--<img height="100" src="https://i0.wp.com/s-media-cache-ak0.pinimg.com/originals/ab/7e/9e/ab7e9e9237ab0f62324e7461c74db788.jpg?w=660&ssl=1" /></td> -->
   </tr>
   <tr>
-    <td><img height="100" src="https://thumbs.gfycat.com/HotMeatyBream-max-1mb.gif" /></td>
+    <td><img height="100" src="https://68.media.tumblr.com/9fcbf60f2d3af13e99dacd8ab48c4063/tumblr_o4432nMNjU1ufjgb9o1_250.gif" /></td>
     <td><img height="" src="https://i.gifer.com/origin/98/98eda5b292bc33c779b8499d656f90ad_w200.gif" /></td>
-    <td><img height="" src="https://i.skyrock.net/2504/86432504/pics/3134164126_1_2_g4BArAIS.gif" /></td>  
+    <td><img height="" src="https://clipart-library.com/images_k/pokemon-transparent-gif/pokemon-transparent-gif-23.png" /></td>  
   </tr>
 </table>
 
@@ -57,6 +57,7 @@ My Self-Taught Learning Journey:
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/DcViet"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DcViet&layout=compact&theme=react&hide_border=true" /></a>
 
+<div
 :octocat:
 - [Scan grab receipt](https://github.com/DcViet/Scan_grabReceipt.git) :trollface: 
 - [Maximal Rectangle Algorithm](https://github.com/DcViet/Maximal-Rectangle-Algorithm.git)
@@ -80,23 +81,11 @@ My Self-Taught Learning Journey:
 <img height="100" src="https://i.pinimg.com/originals/2f/14/9b/2f149b436f5019587cfd44c498febe5b.gif" />
 --> 
 
-```mermaid
-gantt
-dateFormat  YYYY-MM-DD
-title fullstack-journey
-excludes weekdays 2023-06-10
-
-section A section
-Completed task            :done,    des1, 2023-07-06,2023-07-08
-Active task               :active,  des2, 2023-07-09, 3d
-Future task               :         des3, after des2, 5d
-Future task2               :         des4, after des3, 5d
-```
 > **Note**
-> This is a note
+> note
 
 > **Warning**
-> This is a warning
+> warning
 
 ![Metrics](https://metrics.lecoq.io/DcViet?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FSaigon)
 
@@ -121,10 +110,10 @@ solid cube_corner
 
 ```mermaid
 gantt
-    title Schedule-Deep Dive Into Modern Web Development-[Course](https://)
+    title Schedule-Deep Dive Into Modern Web Development
     section Part 0-5
     	Part 0 : 2023-06-26, 3d
-    	Part 1 : 2023-06-28, 3d
+    	Part 1 :active, 2023-06-28, 3d
     	Part 2 : 2023-07-1, 3d
     	Part 3 : 2023-07-4, 3d
     	Part 4 : 2023-07-7, 3d
@@ -143,3 +132,4 @@ gantt
     	Review  : 2023-08-3, 7d
 ```
 
+/
