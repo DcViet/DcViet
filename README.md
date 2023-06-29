@@ -60,7 +60,7 @@ My Self-Taught Learning Journey:
 :octocat:
 - [Scan grab receipt](https://github.com/DcViet/Scan_grabReceipt.git) :trollface: 
 - [Maximal Rectangle Algorithm](https://github.com/DcViet/Maximal-Rectangle-Algorithm.git) ![Progress](https://progress-bar.dev/100/)
-- [beginnerFullStackWebDev_stackskill](https://github.com/DcViet/beginnerFullStackWebDev_stackskill.git) ![Progress](https://progress-bar.dev/5/?title=progress)
+- [beginnerFullStackWebDev_stackskill](https://github.com/DcViet/beginnerFullStackWebDev_stackskill.git) ![Progress](https://progress-bar.dev/75/?title=progress)
 - [Subjects at My University]()
 - [And more..]()
 
