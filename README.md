@@ -4,13 +4,12 @@
 <span><img height="100" style="margin-left:30px"; src="https://i.pinimg.com/originals/34/3e/a1/343ea1d4cc1ca376a4e56d9614ef2c82.png" alt="perry" /></span>
 </div>  
 <div align="center">
-<span><img height="70%" src="assets/intro-me.gi" /></span>
+<span><img height="70%" src="#" /></span>
 </div>
 
 #
 
 <div>
-  <img height="140" src="https://s2.coinmarketcap.com/static/img/coins/200x200/25006.png" alt="Coin logo" />
   <a href="https://github.com/DcViet"><img src="https://s2.coinmarketcap.com/static/img/coins/200x200/25006.png" alt="GitHub logo" /></a>
   <blockquote>
     <p></p>
@@ -32,15 +31,15 @@ My Self-Taught Learning Journey:
 
 <table style="padding: 2px;" >
   <tr>
-    <td> <h5>input</h2></td>
-    <td> <h5>coding</h2></td>
-    <td> <h5>result</h2></td>
+    <td> <h5>a</h2></td>
+    <td> <h5>b</h2></td>
+    <td> <h5>c</h2></td>
 
   </tr>	
   <tr>
-    <td><img height="100" src="https://thumbs.gfycat.com/HotMeatyBream-max-1mb.gif" /></td>
+    <td><img height="100" src="#" /></td>
     <td><img height="" src="https://i.gifer.com/origin/98/98eda5b292bc33c779b8499d656f90ad_w200.gif" /></td>
-    <td><img height="" src="https://i.skyrock.net/2504/86432504/pics/3134164126_1_2_g4BArAIS.gif" /></td>    
+    <td><img height="" src="#" /></td>    
 
   </tr>
   <tr>
@@ -50,7 +49,7 @@ My Self-Taught Learning Journey:
   </tr>
 </table>
 
-<h3><strong> :eye_speech_bubble: ":people_hugging:"</strong></h3>
+<h3><strong></strong></h3>
 <a href="https://github.com/DcViet"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=DcViet&color=blueviolet&style=flat-square" alt="GitHub profile view counter"></a>
 
 <img height="140" src="https://github-readme-stats.vercel.app/api?username=DcViet&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true&hide=contribs,issues&hide_rank=false&rank_icon=github" /></a>
@@ -61,7 +60,7 @@ My Self-Taught Learning Journey:
 - [Scan grab receipt](https://github.com/DcViet/Scan_grabReceipt.git) :trollface: 
 - [Maximal Rectangle Algorithm](https://github.com/DcViet/Maximal-Rectangle-Algorithm.git) ![Progress](https://progress-bar.dev/100/)
 - [beginnerFullStackWebDev_stackskill](https://github.com/DcViet/beginnerFullStackWebDev_stackskill.git) ![Progress](https://progress-bar.dev/75/?title=progress)
-- [Subjects at My University]()
+- [My Project at University]()
 - [And more..]()
 
 <!--
@@ -82,18 +81,6 @@ My Self-Taught Learning Journey:
 <img height="" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae447fdd-fc93-45cc-9836-f5c41b715c79/d5b5tie-69782ae5-7425-4444-b064-112401283b45.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FlNDQ3ZmRkLWZjOTMtNDVjYy05ODM2LWY1YzQxYjcxNWM3OVwvZDViNXRpZS02OTc4MmFlNS03NDI1LTQ0NDQtYjA2NC0xMTI0MDEyODNiNDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8Y8R-IgqlyMiRABZmQlEJPgXBt-uqYYiRrhThNmKDPE" /> 
 <img height="100" src="https://i.pinimg.com/originals/2f/14/9b/2f149b436f5019587cfd44c498febe5b.gif" />
 --> 
-> **Note**
-> note
-
-> **Warning**
-> warning
-
-<div>
-  
-![metric](https://metrics.lecoq.io/DcViet?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FSaigon)
-<img height="120" src="https://i.pinimg.com/originals/71/1e/ab/711eabdcb2a98390783f75007ff6895d.gif"/>
-</div>
-
 ![game](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
 <!-- 
