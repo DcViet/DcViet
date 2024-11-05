@@ -1,7 +1,7 @@
 #Hi 👋
 <h1 align="center">I'm DcViet</h1>
-<h4 align="center">A Fullstack Developer</h4>
-- 🌱 I’m currently learning angular,docker, scrum
+<h4 align="center">w3cyber.dev</h4>
+- 🌱 I design and develop websites
 
 <!-- DcViet introduce.md -->
 <!--
