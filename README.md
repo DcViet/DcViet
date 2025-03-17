@@ -1,8 +1,8 @@
 #Hi 👋
 <h1 align="center">I'm DcViet</h1>
 <h4 align="center">w3cyber.dev</h4>
-- 🌱 I design and develop websites
-
+<!-- - 🌱 I design and develop websites -->
+- 🌱 design and develop app and web
 <!-- DcViet introduce.md -->
 <!--
 <div align="center"> 
@@ -18,9 +18,9 @@
 <!--
 <img height="140" src="https://github-readme-stats.vercel.app/api?username=DcViet&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true&hide=contribs,issues&hide_rank=false&rank_icon=github" /></a>
 &nbsp;&nbsp;&nbsp;
--->
-<a href="https://github.com/DcViet"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DcViet&layout=compact&theme=react&hide_border=true" /></a>
 
+<a href="https://github.com/DcViet"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DcViet&layout=compact&theme=react&hide_border=true" /></a>
+-->
 <a href="https://github.com/DcViet"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=DcViet&color=blueviolet&style=flat-square" alt="GitHub profile view counter"></a>
 
 - [Callbike App]() :octocat:
