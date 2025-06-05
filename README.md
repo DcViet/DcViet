@@ -2,7 +2,10 @@
 <h1 align="center">I'm DcViet</h1>
 <h4 align="center">w3cyber.dev</h4>
 <!-- - 🌱 I design and develop websites -->
-- 🌱 Bim Developer - C# Developer - Custom Revit Tools Specialist
+🎯 I'm a **Revit API Developer** with a passion for automating BIM workflows through custom C# Add-ins.
+
+🔧 My work focuses on building tools that improve productivity for Revit users – from auto-dimensioning walls to batch element renaming, view templates, and more.
+
 <!-- DcViet introduce.md -->
 <!--
 <div align="center"> 
