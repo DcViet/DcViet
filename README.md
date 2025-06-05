@@ -2,7 +2,7 @@
 <h1 align="center">I'm DcViet</h1>
 <h4 align="center">w3cyber.dev</h4>
 <!-- - 🌱 I design and develop websites -->
-- 🌱 design and develop app and web
+- 🌱 Bim Developer - C# Developer - Custom Revit Tools Specialist
 <!-- DcViet introduce.md -->
 <!--
 <div align="center"> 
